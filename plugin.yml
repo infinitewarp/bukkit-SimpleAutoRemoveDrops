@@ -1,0 +1,8 @@
+name: SimpleAutoRemoveDrops
+version: 1.0.0
+description: Automatically remove drops. Simply.
+author: BradSmith
+website: http://infinitewarp.com/minecraft/
+
+main: com.infinitewarp.simpleautoremovedrops.SimpleAutoRemoveDrops
+database: false
